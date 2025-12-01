@@ -1,0 +1,20 @@
+{
+  "name": "geneva-dashboard-absolute-final",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "9.23.0",
+    "lucide-react": "0.244.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
